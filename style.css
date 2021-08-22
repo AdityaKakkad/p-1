@@ -1,0 +1,27 @@
+#head {
+    font-size: 70px;
+    background-color: cornflowerblue;
+    width: 70%;
+    border-radius: 10px;
+    font-family: 'Rampart One', cursive;
+    color: white;
+}
+
+#instruction {
+    background-color: indianred;
+    width: 80%;
+    border-radius: 10px;
+    font-size: 30px;
+}
+
+#start {
+    color: black;
+    font-size: 30px;
+    margin-top: 50px;
+}
+
+canvas {
+    background-color: white;
+    border-radius: 5px;
+    border: white;
+}
